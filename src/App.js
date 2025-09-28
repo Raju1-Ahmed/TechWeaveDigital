@@ -8,8 +8,9 @@ function App() {
   return (
     <Router>
       <Navbar />  {/* সব Link এখন Router এর ভিতরে আছে */}
+      <Home />
       <Routes>
-        <Route path="/" element={<Home />} />
+        {/* <Route path="/" element={<Home />} /> */}
         {/* <Route path="/about" element={<About />} />
         <Route path="/contact" element={<Contact />} /> */}
       </Routes>
