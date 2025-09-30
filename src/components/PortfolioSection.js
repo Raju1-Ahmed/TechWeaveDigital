@@ -4,12 +4,12 @@ import { motion } from "framer-motion";
 const PortfolioSection = () => {
   // Use better, themed placeholders for visual attraction
   const projects = [
-    { id: 1, title: "LuxeMart Retail Platform", category: "E-Commerce", img: "https://placehold.co/600x400/4F46E5/ffffff?text=E-COMMERCE" },
-    { id: 2, title: "VaultPay Mobile Finance", category: "Mobile App", img: "https://placehold.co/600x400/10B981/ffffff?text=BANKING+APP" },
-    { id: 3, title: "GrowFast Organic Search", category: "SEO & Content", img: "https://placehold.co/600x400/EF4444/ffffff?text=SEO+CAMPAIGN" },
-    { id: 4, title: "Nexus Corporate Identity", category: "Branding", img: "https://placehold.co/600x400/F97316/ffffff?text=BRANDING" },
-    { id: 5, title: "Creative Developer Portfolio", category: "Web Design", img: "https://placehold.co/600x400/06B6D4/ffffff?text=PORTFOLIO" },
-    { id: 6, title: "DineNow Delivery Service", category: "Mobile App", img: "https://placehold.co/600x400/6366F1/ffffff?text=RESTAURANT+APP" },
+    { id: 1, title: "LuxeMart Retail Platform", category: "E-Commerce", img:    "https://i.ibb.co.com/1fvnGKcN/Tech-Weave-Digital-1.png" },
+    { id: 2, title: "VaultPay Mobile Finance", category: "Mobile App", img:     "https://i.ibb.co.com/ccsMjptH/Tech-Weave-Digital-2.png" },
+    { id: 3, title: "GrowFast Organic Search", category: "SEO & Content", img:  "https://i.ibb.co.com/My93hGTj/Tech-Weave-Digital-3.png" },
+    { id: 4, title: "Nexus Corporate Identity", category: "Branding", img:      "https://i.ibb.co.com/rXX4Thx/Tech-Weave-Digital-4.png" },
+    { id: 5, title: "Creative Developer Portfolio", category: "Web Design", img:"https://i.ibb.co.com/PZK92R62/Tech-Weave-Digital-5.png" },
+    { id: 6, title: "DineNow Delivery Service", category: "Mobile App", img:    "https:https://i.ibb.co.com/PZK92R62/Tech-Weave-Digital-5.png" },
   ];
   
   // Framer Motion Variants for Staggered Grid Animation
@@ -111,3 +111,14 @@ const PortfolioSection = () => {
 };
 
 export default PortfolioSection;
+
+
+
+
+
+
+// https://i.ibb.co.com/1fvnGKcN/Tech-Weave-Digital-1.png
+// https://i.ibb.co.com/ccsMjptH/Tech-Weave-Digital-2.png
+// https://i.ibb.co.com/My93hGTj/Tech-Weave-Digital-3.png
+// https://i.ibb.co.com/rXX4Thx/Tech-Weave-Digital-4.png
+// https://i.ibb.co.com/PZK92R62/Tech-Weave-Digital-5.png
